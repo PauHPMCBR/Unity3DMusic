@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :SimpleFileBrowser:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c63b37fb743c598585744adb29ed42d8/SimpleFileBrowser/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c63b37fb743c598585744adb29ed42d8/SimpleFileBrowser/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c63b37fb743c598585744adb29ed42d8/SimpleFileBrowser/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
